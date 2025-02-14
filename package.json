@@ -1,0 +1,45 @@
+{
+  "name": "projet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^19.0.7",
+    "@types/react-dom": "^19.0.3",
+    "@urql/core": "^5.1.0",
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "cor": "^0.0.0",
+    "cors": "^2.8.5",
+    "debounce": "^2.2.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "graphql-tag": "^2.12.6",
+    "intersection-observer": "^0.12.2",
+    "jsdom": "^26.0.0",
+    "leaflet": "^1.9.4",
+    "lodash.debounce": "^4.0.8",
+    "mapbox-gl": "^3.9.3",
+    "node-fetch": "^3.3.2",
+    "openrouteservice": "^0.1.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.1",
+    "soap": "^1.1.7",
+    "strong-soap": "^4.1.7",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
