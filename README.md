@@ -9,7 +9,7 @@ Back  : https://e-car-map.azurewebsites.net/
 SwaggerUI : https://e-car-map.azurewebsites.net/api-docs/
 
 
-## Pour le code du git :
+## Pour le code du git (prêt à être déployé en local) :
 - npm install 
 - npm start 
 pour exécuter le back
