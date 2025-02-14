@@ -8,11 +8,11 @@ SwaggerUI : https://e-car-map.azurewebsites.net/api-docs/
 
 
 ## Pour le code du git :
--npm install
--npm start 
+-npm install \n
+-npm start \n
 pour exécuter le back
 
--cd client/
--npm install
--npm start
+-cd client/ \n
+-npm install \n
+-npm start \n
 pour exécuter le front
